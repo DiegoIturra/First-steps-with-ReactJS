@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/Testimony.css"
 
 //All components start with Upper case letter
 function Testimony(){
